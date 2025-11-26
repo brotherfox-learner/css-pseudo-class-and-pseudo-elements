@@ -3,7 +3,7 @@ input:disabled {
   background-color: lightgray;
 }
 input:hover {
-  border: 2px solid khaki;
+  border-color: khaki;
 }
 button {
   color: pink;
